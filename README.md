@@ -3,7 +3,7 @@
 
 ***
   
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR CHOOSING +FLASH-MD;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+FRANCE+KING;RELEASED+22.2.2024" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR CHOOSING +SHAKIR-MD;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+SHAKIR+KING;RELEASED+29.4.2024" alt="Typing SVG" /></a>
   </p>
     <img alt="sʜᴀᴋɪʀ-ᴍᴅ" width="700" height="300" src="https://telegra.ph/file/e001c688ec9c283c01ee5.jpg">
 <p align="center">
@@ -20,7 +20,7 @@
 
 #### SETUP 
 
-***1.`First STAR 🌟 This Repo ` And Then [`FORK`](https://github.com/franceking1/Flash-Md/fork) It***
+***1.`First STAR 🌟 This Repo ` And Then [`FORK`]([[](https://github.com/shakirofficial/SHAKIR_MD)](https://github.com/shakirofficial/SHAKIR_MD)/fork) It***
 
 ***2.`Get Session ID` by [`SCANING QR`](https://shakir-md-qr.onrender.com) Or [`PAIRING CODE`](https://shakir-md-z6lm.onrender.com/pair)***
 
