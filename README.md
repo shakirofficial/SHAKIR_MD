@@ -8,7 +8,7 @@
     <img alt="sʜᴀᴋɪʀ-ᴍᴅ" width="700" height="300" src="https://telegra.ph/file/e001c688ec9c283c01ee5.jpg">
 <p align="center">
 <p align="center">
-<a href="https://github.com/shakirofficial/SHAKIR_MD"><img title="Author" src="https://img.shields.io/badge/FLASH_MD-black?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/shakirofficial/SHAKIR_MD"><img title="Author" src="https://img.shields.io/badge/Shakir_MD-black?style=for-the-badge&logo=github"></a>
 <p/>
 <p align="center">
 <a href="https://github.com/franceking1?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/franceking1?label=Followers&style=social"></a>
