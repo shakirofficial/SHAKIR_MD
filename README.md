@@ -11,8 +11,7 @@
 <a href="https://github.com/shakirofficial/SHAKIR_MD"><img title="Author" src="https://img.shields.io/badge/Shakir_MD-black?style=for-the-badge&logo=github"></a>
 <p/>
 <p align="center">
-<a href="https://github.com/franceking1?tab=followers"><img title="Followers" src="https://img.shields.io/whatsapp/Follow/franceking1?label=Followers&style=social"></a>
-<a href="[https://github.com/franceking1/Flash-Md/stargazers/](https://github.com/shakirofficial/SHAKIR_MD)"><img title="STARS" src="[https://img.shields.io/github/stars/franceking1/Flash-Md?&style=social](https://github.com/shakirofficial/SHAKIR_MD)"></a>
+<a href="(https://github.com/shakirofficial/SHAKIR_MD)"><img title="STARS" src="[https://img.shields.io/github/stars/franceking1/Flash-Md?&style=social](https://github.com/shakirofficial/SHAKIR_MD)"></a>
 <a href="https://github.com/franceking1/Flash-Md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/franceking1/Flash-Md?style=social"></a>
 <a href="https://github.com/franceking1/Flash-Md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/franceking1/Flash-Md?label=Watching&style=social"></a>
   
