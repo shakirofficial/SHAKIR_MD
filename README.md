@@ -1,9 +1,9 @@
- <h1 align="center"> FLASH-MD </h1>
-<p align="center"> FLASH-MD, A Simple WhatsApp user BOT, Created by France King.
+ <h1 align="center"> SHAKIR-MD </h1>
+<p align="center"> SHAKIR-MD, A Simple WhatsApp user BOT, Created by Shakir Tech.
 </p>
 
  
-<img src="https://telegra.ph/file/3f985014b51b3cf335bfe.jpg" width="700" height="300"/>
+<img src="https://telegra.ph/file/e001c688ec9c283c01ee5.jpg" width="700" height="300"/>
 
 
 
@@ -19,11 +19,11 @@
 
 ## Contributions
 
-Contributions to Flash-Md are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request.
+Contributions to Shakir-Md are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request.
 
 ## License
 
-The FLASH-MD is released under the [MIT License](https://opensource.org/licenses/MIT).
+The SHAKIR-MD is released under the [MIT License](https://opensource.org/licenses/MIT).
 
 Enjoy the diverse features of the Flash-Md  to enhance your conversations and make your WhatsApp experience more interesting!
 
