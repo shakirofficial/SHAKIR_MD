@@ -10,8 +10,8 @@
 <p/>
 <p align="center">
 <a href="(https://github.com/shakirofficial/SHAKIR_MD)"><img (https://github.com/shakirofficial/SHAKIR_MD)"></a>
-<a href="https://github.com/franceking1/Flash-Md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/franceking1/Flash-Md?style=social"></a>
-<a href="https://github.com/franceking1/Flash-Md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/franceking1/Flash-Md?label=Watching&style=social"></a>
+<a href="https://github.com/shakirofficial/Shakir-Md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Shakirofficial/Shakir-Md?style=social"></a>
+<a href="https://github.com/shakirofficial/Shakir-Md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/shakirofficial/Shakir-Md?label=Watching&style=social"></a>
   
 ***
 
@@ -33,27 +33,27 @@
 
 **2. If You Have a Heroku Account**
     <br>
-<p align="center"><a href="https://flash-deploy.vercel.app"> <img src="https://img.shields.io/badge/DEPLOY%20NOW-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://Shakir-deploy.vercel.app"> <img src="https://img.shields.io/badge/DEPLOY%20NOW-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 
 ***
 
 
 ### CONTRIBUTIONS 
--Contributions to Flash-Md are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request.
+-Contributions to Shakir-Md are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request.
 
 ***
 
 ### LICENSE 
--The FLASH-MD is released under the [MIT License](https://opensource.org/licenses/MIT).
+-The SHAKIR-MD is released under the [MIT License](https://opensource.org/licenses/MIT).
 
--Enjoy the diverse features of the Flash-Md  to enhance your conversations and make your WhatsApp experience more interesting!
+-Enjoy the diverse features of the SHAKIR-Md  to enhance your conversations and make your WhatsApp experience more interesting!
 
 ***
 ### DEVELOPER:
-**GET In Touch with The Owner**
-- [**On Instagram**](https://instagram.com/france.king1)
-- [**Via WhatsApp**](https://wa.me/254757835036)
+**SOPPORT GROUP**
+- [**On WHATSAPP**](https://whatsapp.com/channel/0029VadihJ8DZ4LVvvnAux2c)
+- [**WhatsApp Number**](. https://wa.me/923461372588)
 
 ***
 
@@ -61,4 +61,4 @@
 - [***Fortunatus Mokaya***](https://github.com/Fortunatusmokaya) For several Cmds Addition.
 - [***Gifted Tech***](https://github.com/giftedtechnexus) For Genaral Help and Session Generation
 - [***Suhail Ser***](https://github.com/SuhailTechInfo) For Code encryption 
-- [***Luffy***](https://github.com/Luffy2ndAccount) For Providing a Base of **FLASH-MD**
+- [***Luffy***](https://github.com/Luffy2ndAccount) For Providing a Base of **SHAKIR-MD**
