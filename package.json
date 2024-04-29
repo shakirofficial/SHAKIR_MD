@@ -1,23 +1,23 @@
 {
-  "name": "FLASH-MD",
+  "name": "SHAKIR-MD",
   "version": "2.0.0",
   "description": "",
-  "main": "flash.js",
+  "main": "shakir.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "s": "node flash.js",
+    "s": "node shakir.js",
     "flashmd": "pm2 start flash.js --attach --max-memory-restart 490M",
     "c": "tsc"
   },
   "keywords": [
     "bot",
     "Baileys",
-    "Flash-Md",
+    "Shakir-Md",
     "whatsapp",
     "whatsapp-bot",
-    "franceking1"
+    "shakirofficial"
   ],
-  "author": "France King",
+  "author": "Shakir Tech",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
