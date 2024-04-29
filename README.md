@@ -1,18 +1,18 @@
-<h1 align="center"> 𝐓𝐇𝐄 𝐅𝐋𝐀𝐒𝐇 𝐌𝐔𝐋𝐓𝐈 𝐃𝐄𝐕𝐈𝐂𝐄  </h1>
+<h1 align="center"> 𝐓𝐇𝐄 SHAKIR 𝐌𝐔𝐋𝐓𝐈 𝐃𝐄𝐕𝐈𝐂𝐄  </h1>
 <p align="center">  
 
 ***
   
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR CHOOSING +FLASH-MD;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+FRANCE+KING;RELEASED+22.2.2024" alt="Typing SVG" /></a>
   </p>
-    <img alt="FLASH-MD" width="700" height="300" src="https://telegra.ph/file/3f985014b51b3cf335bfe.jpg">
+    <img alt="sʜᴀᴋɪʀ-ᴍᴅ" width="700" height="300" src="https://telegra.ph/file/e001c688ec9c283c01ee5.jpg">
 <p align="center">
 <p align="center">
-<a href="https://github.com/franceking1/Flash-Md"><img title="Author" src="https://img.shields.io/badge/FLASH_MD-black?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/shakirofficial/SHAKIR_MD"><img title="Author" src="https://img.shields.io/badge/FLASH_MD-black?style=for-the-badge&logo=github"></a>
 <p/>
 <p align="center">
 <a href="https://github.com/franceking1?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/franceking1?label=Followers&style=social"></a>
-<a href="https://github.com/franceking1/Flash-Md/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/franceking1/Flash-Md?&style=social"></a>
+<a href="[https://github.com/franceking1/Flash-Md/stargazers/](https://github.com/shakirofficial/SHAKIR_MD)"><img title="STARS" src="[https://img.shields.io/github/stars/franceking1/Flash-Md?&style=social](https://github.com/shakirofficial/SHAKIR_MD)"></a>
 <a href="https://github.com/franceking1/Flash-Md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/franceking1/Flash-Md?style=social"></a>
 <a href="https://github.com/franceking1/Flash-Md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/franceking1/Flash-Md?label=Watching&style=social"></a>
   
@@ -22,7 +22,7 @@
 
 ***1.`First STAR 🌟 This Repo ` And Then [`FORK`](https://github.com/franceking1/Flash-Md/fork) It***
 
-***2.`Get Session ID` by [`SCANING QR`](https://flash-md-qr.onrender.com) Or [`PAIRING CODE`](https://flash-md-z6lm.onrender.com/pair)***
+***2.`Get Session ID` by [`SCANING QR`](https://shakir-md-qr.onrender.com) Or [`PAIRING CODE`](https://shakir-md-z6lm.onrender.com/pair)***
 
 *-Copy The Session ID to paste it in Heroku*
 
