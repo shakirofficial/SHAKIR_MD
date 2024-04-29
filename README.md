@@ -6,12 +6,10 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR CHOOSING +SHAKIR-MD;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+SHAKIR+KING;RELEASED+29.4.2024" alt="Typing SVG" /></a>
   </p>
     <img alt="sʜᴀᴋɪʀ-ᴍᴅ" width="700" height="300" src="https://telegra.ph/file/e001c688ec9c283c01ee5.jpg">
-<p align="center">
-<p align="center">
-<a href="https://github.com/shakirofficial/SHAKIR_MD"><img title="Author" src="https://img.shields.io/badge/Shakir_MD-black?style=for-the-badge&logo=github"></a>
+<ahref="https://github.com/shakirofficial/SHAKIR_MD"><img title="Author" src="https://img.shields.io/badge/Shakir_MD-black?style=for-the-badge&logo=github"></a>
 <p/>
 <p align="center">
-<a href="(https://github.com/shakirofficial/SHAKIR_MD)"><img title="STARS" src="[https://img.shields.io/github/stars/franceking1/Flash-Md?&style=social](https://github.com/shakirofficial/SHAKIR_MD)"></a>
+<a href="(https://github.com/shakirofficial/SHAKIR_MD)"><img (https://github.com/shakirofficial/SHAKIR_MD)"></a>
 <a href="https://github.com/franceking1/Flash-Md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/franceking1/Flash-Md?style=social"></a>
 <a href="https://github.com/franceking1/Flash-Md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/franceking1/Flash-Md?label=Watching&style=social"></a>
   
